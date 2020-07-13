@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<results>
+    <result>
+        <ahlete>John Smith</ahlete>
+        <resultOfEvents>
+            <resultOfEvent>12.61</resultOfEvent>
+            <resultOfEvent>5.00</resultOfEvent>
+            <resultOfEvent>9.22</resultOfEvent>
+            <resultOfEvent>1.50</resultOfEvent>
+            <resultOfEvent>60.39</resultOfEvent>
+            <resultOfEvent>16.43</resultOfEvent>
+            <resultOfEvent>21.60</resultOfEvent>
+            <resultOfEvent>2.60</resultOfEvent>
+            <resultOfEvent>35.81</resultOfEvent>
+            <resultOfEvent>5:25.72</resultOfEvent>
+        </resultOfEvents>
+        <totalScore>1123</totalScore>
+    </result>
+    <result>
+        <ahlete>Jane Doe</ahlete>
+        <resultOfEvents>
+            <resultOfEvent>13.04</resultOfEvent>
+            <resultOfEvent>4.53</resultOfEvent>
+            <resultOfEvent>7.79</resultOfEvent>
+            <resultOfEvent>1.55</resultOfEvent>
+            <resultOfEvent>64.72</resultOfEvent>
+            <resultOfEvent>18.74</resultOfEvent>
+            <resultOfEvent>24.20</resultOfEvent>
+            <resultOfEvent>2.40</resultOfEvent>
+            <resultOfEvent>28.20</resultOfEvent>
+            <resultOfEvent>6:50.76</resultOfEvent>
+        </resultOfEvents>
+        <totalScore>980</totalScore>
+    </result>
+    <result>
+        <ahlete>Jaan Lepp</ahlete>
+        <resultOfEvents>
+            <resultOfEvent>13.75</resultOfEvent>
+            <resultOfEvent>4.84</resultOfEvent>
+            <resultOfEvent>10.12</resultOfEvent>
+            <resultOfEvent>1.50</resultOfEvent>
+            <resultOfEvent>68.44</resultOfEvent>
+            <resultOfEvent>19.18</resultOfEvent>
+            <resultOfEvent>30.85</resultOfEvent>
+            <resultOfEvent>2.80</resultOfEvent>
+            <resultOfEvent>33.88</resultOfEvent>
+            <resultOfEvent>6:22.75</resultOfEvent>
+        </resultOfEvents>
+        <totalScore>1328</totalScore>
+    </result>
+    <result>
+        <ahlete>Foo Bar</ahlete>
+        <resultOfEvents>
+            <resultOfEvent>13.43</resultOfEvent>
+            <resultOfEvent>4.35</resultOfEvent>
+            <resultOfEvent>8.64</resultOfEvent>
+            <resultOfEvent>1.50</resultOfEvent>
+            <resultOfEvent>66.06</resultOfEvent>
+            <resultOfEvent>19.05</resultOfEvent>
+            <resultOfEvent>24.89</resultOfEvent>
+            <resultOfEvent>2.20</resultOfEvent>
+            <resultOfEvent>33.48</resultOfEvent>
+            <resultOfEvent>6:51.01</resultOfEvent>
+        </resultOfEvents>
+        <totalScore>1117</totalScore>
+    </result>
+</results>
